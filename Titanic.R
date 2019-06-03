@@ -1,7 +1,11 @@
 ########################################################################################################
 ############################## FORECASTING SURVIVAL RATES FOR TITANIC DATASET ##########################
 #########################################################################################################
+"""
+Created on April 24,2019
 
+@author: Naveen Balaraju
+"""
 #Loading dataset
 data = read.csv("/Users/naveen/Desktop/SDM\ 2/Final\ Assignment/titanic/train.csv")
 str(data)
